@@ -10,3 +10,5 @@ Download this repo
 
 ### Step 2
 Double click the `forge-1.20.1-47.2.0-installer.jar` file after download and install the `client`
+
+![forge install](photos/ClientSideMods-ForgeInstall.png)
