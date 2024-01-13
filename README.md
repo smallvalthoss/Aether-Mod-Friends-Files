@@ -6,6 +6,6 @@
 ### Step 1
 
 Download this repo
-![Alt text](photos/github-download.png)
+![Meow](photos/github-download.png)
 
 ### Step 2
