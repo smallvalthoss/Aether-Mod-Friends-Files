@@ -16,8 +16,8 @@ Double click the `forge-1.20.1-47.2.0-installer.jar` file after download and ins
 
 ## Adding Mods
 
-# 1
+### 1
 From the Minecraft launcher, enter the Installations tab at the top.
 
-# 2
+### 2
 Hover over your Forge installation, then press the Open Folder icon to the right.
