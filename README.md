@@ -9,4 +9,4 @@ Download this repo
 ![download](photos/github-download.png)
 
 ### Step 2
-Double click the "forge-1.20.1-47.2.0-installer.jar" file after download and install the 'client'
+Double click the `forge-1.20.1-47.2.0-installer.jar` file after download and install the `client`
