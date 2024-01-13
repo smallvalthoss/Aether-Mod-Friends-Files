@@ -33,3 +33,7 @@ In the new window, locate or create the mods folder, then enter it
 Paste the `aether-1.20.1-1.0.0-neoforge.jar` file into this location
 
 ![Paste Aether](photos/aether-mod-paste.png)
+
+# DONE!
+Launch minecraft launcher, using the `forge` installation
+
