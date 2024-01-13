@@ -37,3 +37,6 @@ Paste the `aether-1.20.1-1.0.0-neoforge.jar` file into this location
 # DONE!
 Launch minecraft launcher, using the `forge` installation
 
+## Note
+Ask someone for ip and stuff, I don't want that public :).
+
