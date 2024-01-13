@@ -4,3 +4,7 @@
 # Installation Instructions
 
 ### Step 1
+
+Download this repo
+
+### Step 2
