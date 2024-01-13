@@ -7,7 +7,7 @@
 Need minecraft to run minecraft mods
 
 ### OpenJDK
-see [here](https://www.freecodecamp.org/news/install-openjdk-free-java-multi-os-guide/)
+see [here](https://www.freecodecamp.org/news/install-openjdk-free-java-multi-os-guide/) for instructions
 
 ## 1 Installation Instructions
 
