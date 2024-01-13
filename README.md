@@ -1,6 +1,14 @@
 # Aether-Mod-Friends-Files
  A repo to help with finding all the files necessary to access my hosted minecraft server
 
+## Prerequisites
+
+### Minecraft
+Need minecraft to run minecraft mods
+
+### OpenJDK
+see [here](https://www.freecodecamp.org/news/install-openjdk-free-java-multi-os-guide/)
+
 ## 1 Installation Instructions
 
 ### 1.1
