@@ -6,6 +6,6 @@
 ### Step 1
 
 Download this repo
-![Alt text](/photos/github-download.png?raw=true "Title")
+![Alt text](photos/github-download.png?raw=true "Title")
 
 ### Step 2
