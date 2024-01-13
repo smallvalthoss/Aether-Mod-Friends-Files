@@ -7,6 +7,11 @@
 Need minecraft to run minecraft mods
 
 ### OpenJDK
+
+#### Check if it is installed
+in a terminal, run `java --version`, if you get something back, jump straight to step `1`
+
+otherwise:
 see [here](https://www.freecodecamp.org/news/install-openjdk-free-java-multi-os-guide/) for instructions
 
 ## 1 Installation Instructions
